@@ -10,8 +10,6 @@ The goal of the project is to showcase
 - UI design principles, and
 - Proper website structure using core web technologies.
 
---
-
 ## Technologies Used
 
 - HTML5
